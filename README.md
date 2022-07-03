@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lavincini
+- 👀 I’m developing projects for TIKINot
+- 💞️ I have a platonic love for JS
+- 📫 Cool Mail :> angel@lavin.cool
